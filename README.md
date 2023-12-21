@@ -2,7 +2,7 @@
 
 
 ### About me
-Iam a web developer,web designer and app developer
+Iam a web developer,web designer and app developer.
 
 ### What do i do for fun?
 - I love building creative websites.
