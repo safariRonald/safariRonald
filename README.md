@@ -1,8 +1,11 @@
+### Hi there 👋 Iam SAFARI RONALD!
 
-echo "# safariRonald-" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/safariRonald/safariRonald-.git
-git push -u origin main
+
+### About me
+Iam a web developer,web designer and app developer
+
+### What do i do for fun?
+- I love building creative websites.
+- I love scuba diving.
+- I love fitness.
+- I love nature walks.
